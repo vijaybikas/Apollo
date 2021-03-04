@@ -183,5 +183,10 @@ jbrowse {
             branch = 'master'
             alwaysPull = "true"
         }
+	GCContent {
+            git = 'https://github.com/cmdcolin/gccontent'
+            branch = 'master'
+            alwaysPull = "true"
+        }
     }
 }
